@@ -2,7 +2,7 @@
 
 Neste exemplo você terá acesso a um banco de dados completo e atualizado com todos os CEPs do Brasil com código do IBGE no formato SQL. Faça download! 
 
-## O banco de dados usado neste sql foi o firebird 2.0, mas nada impede que esse sql seja migrado para outro SGBD.
+## O banco de dados usado neste sql foi o firebird 2.0, mas nada impede que esse sql seja migrado para outro SGBD. A tabela cidade deverá ser criado primeiro.Depois o logradouro foi dividido em 12 partes, executar na sequencia,
 
 
 Confira o passo a passo para a criação desse banco de dados no endereço https://www.devmedia.com.br/exemplo/base-de-dados-de-ceps-com-codigo-do-ibge/39
